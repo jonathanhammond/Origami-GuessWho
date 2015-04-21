@@ -11,7 +11,7 @@ I did not create the face graphics if you know where they are from please contac
 Email me if you use this composition would be great to check out your work. Have fun learning QC and Origami
 
 Facebook Community discussion and video
-https://vimeo.com/124323243
+https://www.facebook.com/groups/origami.community/permalink/748496958582522/
 
 ## Features
 - Message scrolling on the vertical axis
