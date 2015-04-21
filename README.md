@@ -12,6 +12,7 @@ Email me if you use this composition would be great to check out your work. Have
 
 Facebook Community discussion and video
 https://www.facebook.com/groups/origami.community/permalink/748496958582522/
+https://vimeo.com/125447961
 
 ## Features
 - Message scrolling on the vertical axis
